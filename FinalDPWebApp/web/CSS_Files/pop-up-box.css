@@ -1,0 +1,18 @@
+    #popupBoxRegister{
+            top: 0; left: 0;
+            position: fixed;
+            z-index: 999;
+            width: 100%;
+            height: 120%;
+            background-color: rgba(0,0,0,0.7);
+            display: none;
+    }
+    .popupBoxWrapper{            
+            width: 550px;            
+            margin: 1em auto;
+    }
+    .popupBoxContent{
+            background-color: #fff;    
+            border: 0px #fff solid;
+            border-radius: 20px;
+    }

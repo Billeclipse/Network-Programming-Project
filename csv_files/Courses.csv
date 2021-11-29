@@ -1,0 +1,69 @@
+Εισαγωγή στην Πληροφορική,Introduction to Computer Science,0,1
+Μαθηματικά,Mathematics,0,1
+Γραμμική Άλγεβρα,Linear Algebra,0,1
+Προγραμματισμός Υπολογιστών,Computer programming,0,1
+Αλγοριθμική,Algorithmic,0,1
+Αντικειμενοστραφής Προγραμματισμός,Object Oriented Programming,0,2
+Πιθανότητες και Στατιστική,Probabilities and Statistics,0,2
+Διακριτά Μαθηματικά,Discrete Mathematics,0,2
+Δομές Δεδομένων,Data Structures,0,2
+Ψηφιακή Σχεδίαση,Digital Design,0,2
+Αλγόριθμοι και Πολυπλοκότητα,Algorithms and Complexity,0,3
+Βάσεις Δεδομένων Ι,Databases I,0,3
+Πληροφοριακά Συστήματα Διοίκησης και Επιχειρηματικότητα,Information Systems Management and Entrepreneurship,0,3
+Λειτουργικά Συστήματα Ι,Operating Systems I,0,3
+Αρχιτεκτονική Υπολογιστών,Computer Architecture,0,3
+Δίκτυα Υπολογιστών Ι,Computer Networks Ι,0,3
+Λειτουργικά Συστήματα ΙΙ,Operating Systems II,0,4
+Δίκτυα Υπολογιστών ΙΙ,Computer Networks II,0,4
+Σχεδιασμός Ψηφιακών Συστημάτων,Design of Digital Systems,0,4
+Μεθοδολογίες Ανάπτυξης Εφαρμογών,Application Development Methodologies,0,4
+Βάσεις Δεδομένων ΙΙ,Databases II,0,4
+Τεχνολογία Λογισμικού,Software Technology,0,4
+Ανάλυση και Σχεδιασμός Πληροφοριακών Συστημάτων,Analysis and Design of Information Systems,0,5
+Μεταγλωττιστές,Compilers,0,5
+Εισαγωγή στον Παράλληλο Υπολογισμό,Introduction to Parallel Computation,0,5
+Δικτυακός Προγραμματισμός,Network Programming,0,5
+Ποιότητα και Αξιοπιστία Λογισμικού,Software Quality and Reliability,0,5
+Αλληλεπίδραση Ανθρώπου – Η/Υ,Human - Computer Interaction,0,5
+Υπολογιστικά Συστήματα,Computational Systems,0,5
+Σήματα και Συστήματα,Signs and Systems,0,5
+Ασφάλεια στην Τεχνολογία της Πληροφορίας,Security in Information Technology,0,6
+Τεχνητή Νοημοσύνη,Artificial Intelligence,0,6
+Σχεδιασμός και Ανάπτυξη Πληροφοριακών Συστημάτων,Design and Development of Information Systems,0,6
+Ανάκτηση Πληροφορίας,Information Retrieval,0,6
+Επεξεργασία Εικόνας,Image Processing,0,6
+Κατανεμημένα Συστήματα,Distributed Systems,0,6
+Νευρωνικά Δίκτυα,Neural Networks,0,6
+Προηγμένη Αρχιτεκτονική Υπολογιστών,Advanced Computer Architecture,0,6
+Ψηφιακές Επικοινωνίες,Digital Communications,0,6
+Ενσωματωμένα Συστήματα,Embedded Systems,0,6
+Διαχείριση και Ασφάλεια Δικτύων,Network Management and Security,0,6
+Εξόρυξη Δεδομένων,Data Mining,0,7
+Ευφυή Συστήματα,Intelligent Systems,0,7
+Γραφικά Υπολογιστών,Computer Graphics,0,7
+Εκπαιδευτική Τεχνολογία και Διδακτική της Πληροφορικής,Educational Technology and Teaching of Informatics,0,7
+Τεχνολογία Πολυμέσων,Multimedia Technology,0,7
+Ηλεκτρονικό Εμπόριο,E-commerce,0,7
+Πληροφορική και Κοινωνία – Τεχνική της Έκφρασης,Informatics and Society - Technique of Expression,0,7
+Επιχειρησιακή Έρευνα,Operational Research,0,7
+Αριθμητική Ανάλυση και Εφαρμογές,Numerical Analysis and Applications,0,7
+Σχεδίαση Ολοκληρωμένων Κυκλωμάτων VLSI,Design of Integrated Circuits VLSI,0,7
+Παράλληλα Συστήματα,Parallel Systems,0,7
+Νέες Δικτυακές Τεχνολογίες,New Networking Technologies,0,7
+Δίκτυα Κινητών Επικοινωνιών,Mobile Communications Networks,0,7
+Πτυχιακή Εργασία φοιτητών,Graduate Student Work,0,8
+Πρακτική άσκηση φοιτητών,Practical training of students,0,8
+Αλγόριθμοι και Προχωρημένες Δομές Δεδομένων,Algorithms and Advanced Data Structures,1,1
+Προηγμένες Δικτυακές Τεχνολογίες,Advanced Network Technologies,1,1
+Βάσεις Δεδομένων και web-based Εφαρμογές,Databases and web-based applications,1,1
+Σύγχρονες Τεχνολογίες Υλικού,Modern Hardware Technologies,1,1
+Κατανεμημένες Διαδικτυακές Εφαρμογές,Distributed Internet Applications,1,1
+Υπολογιστική Νέφους και Υπηρεσίες Νέφους,Cloud computing and cloud services,1,1
+Ασφάλεια Πληροφορίας και Συστημάτων,Information and Systems Security,1,2
+Εξόρυξη Δεδομένων και Διαχείριση Δεδομένων Μεγάλης Κλίμακας,Data mining and large scale data management,1,2
+Δίκτυα Κινητών Επικοινωνιών και Εφαρμογές,Mobile Communications Networks and Applications,1,2
+Διάχυτα και Ενσωματωμένα Συστήματα,Diffuse and Embedded Systems,1,2
+Παράλληλα και Κατανεμημένα Συστήματα,Parallel and Distributed Systems,1,2
+Δίκαιο της Πληροφορίας και Διοίκηση Έργου,Information Law and Project Management,1,2
+Μεταπτυχιακή Διπλωματική Εργασία,Postgraduate Diploma Thesis,1,3

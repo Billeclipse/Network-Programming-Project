@@ -1,0 +1,156 @@
+head_title_gr|Μηχανικών Πληροφορικής ΤΕΙ Αθήνας
+head_title_eng|Engineering TEI of Athens
+username_label_gr|Όνομα Χρήστη
+username_label_eng|Username
+password_label_gr|Κωδικός
+password_label_eng|Password
+name_label_gr|Όνομα
+name_label_eng|Name
+surname_label_gr|Επώνυμο
+surname_label_eng|Surname
+user_type_label_gr|Τύπος Χρήστη
+user_type_label_eng|User Type
+professor_label_gr|Καθηγητής
+professor_label_eng|Professor
+professors_label_gr|Καθηγητές
+professors_label_eng|Professors
+student_label_gr|Μαθητής
+student_label_eng|Student
+grade_label_gr|Βαθμίδα
+grade_label_eng|Grade
+register_label_gr|Εγγραφή
+register_label_eng|Register
+invalid_username_control_gr|Το όνομα χρήστη αποτελείται μόνο από λατινικούς χαρακτήρες και αριθμούς.
+invalid_username_control_eng|The username must contain only characters and numbers.
+invalid_password_control_gr|Ο κωδικός πρέπει να αποτελείται από τουλάχιστον 8 λατινικούς χαρακτήρες (κεφάλαια, πεζά και αριθμούς).
+invalid_password_control_eng|The password must be at least 8 characters (capital, lowercase and numbers).
+invalid_space_control_gr|Απαγορεύεται ο κενός χαρακτήρας (space).
+invalid_space_control_eng|The space character is prohibited.
+invalid_empty_control_gr|Παρακαλούμε συμπληρώστε το πεδίο.
+invalid_empty_control_eng|Please fill in the input field.
+invalid_empty_fields_gr|Παρακαλούμε συμπληρώστε τα πεδία.
+invalid_empty_fields_eng|Please fill in the input fields.
+homepage_label_gr|Αρχική
+homepage_label_eng|HomePage
+courses_label_gr|Μαθήματα
+courses_label_eng|Courses
+course_label_gr|Μάθημα
+course_label_eng|Course
+undergraduate_label_gr|Προπτυχιακά
+undergraduate_label_eng|Undergraduate
+postgraduate_label_gr|Μεταπτυχιακά
+postgraduate_label_eng|Postgraduate
+undergraduate_form_label_gr|Προπτυχιακό
+undergraduate_form_label_eng|Undergraduate
+postgraduate_form_label_gr|Μεταπτυχιακό
+postgraduate_form_label_eng|Postgraduate
+homepage_title_gr|Σχολή Τεχνολογικών Εφαρμογών
+homepage_title_eng|School of Technological Applications
+user_login_title_gr|Σύνδεση Χρήστη
+user_login_title_eng|User Login
+error_message_login_fail_gr|Λάθος όνομα χρήστη ή κωδικός.
+error_message_login_fail_eng|Wrong username or password.
+error_message_invalid_gr|Ο χρήστης είναι απενεργοποιημένος, επικοινωνήστε με τον διαχειριστή της σελίδας.
+error_message_invalid_eng|User is disabled, please contact the administrator of the page.
+error_message_register_fail_gr|Υπάρχει ήδη χρήστης με αυτό το όνομα χρήστη.
+error_message_register_fail_eng|There is already a user with this username.
+error_message_server_gr|Δυστυχώς υπήρξε πρόβλημα με τον διακομιστή, παρακαλώ δοκιμάστε αργότερα.
+error_message_server_eng|Unfortunately there was a problem with the server, please try later.
+message_register_done_gr|Η αίτηση σας για εγγραφή έχει αποσταλεί για έγκριση από τον διαχειριστή της σελίδας.
+message_register_done_eng|Your application for registration has been sent for approval by the administrator.
+search_courses_label_gr|Αναζήτηση Μαθημάτων 
+search_courses_label_eng|Search Courses
+search_all_courses_button_gr|Εμφάνιση των διαθέσιμων μαθημάτων
+search_all_courses_button_eng|Show all available courses
+by_learning_objectives_label_gr|μέσω Μαθησιακών Στόχων
+by_learning_objectives_label_eng|through Learning Objectives
+search_label_gr|Αναζήτηση
+search_label_eng|Search
+copyrights_content_gr|Βασίλειος Γιογουρτσόγλου
+copyrights_content_eng|Vasileios Giogourtsoglou
+login_label_gr|Είσοδος
+login_label_eng|Login
+welcome_label_gr|Καλώς Όρισες
+welcome_label_eng|Welcome
+logout_label_gr|Έξοδος
+logout_label_eng|Logout
+semester_label_gr|Εξάμηνο
+semester_label_eng|Semester
+course_name_title_gr|Ονομασία Μαθήματος
+course_name_title_eng|Course's Name
+education_level_title_gr|Εκπαιδευτικό Επίπεδο
+education_level_title_eng|Education Level
+learning_objective_courses_title_gr|Μαθήματα του Μαθησιακού Στόχου
+learning_objective_courses_title_eng|Learning Objective's Courses
+prerequisites_label_gr|Προαπαιτούμενα
+prerequisites_label_eng|Prerequisites
+prerequisites_form_label_gr|Προαπαιτούμενοι
+prerequisites_form_label_eng|Prerequisites
+learning_objectives_label_gr|Μαθησιακοί Στόχοι
+learning_objectives_label_eng|Learning Objectives
+category_label_gr|Κατηγορία
+category_label_eng|Category
+previous_page_button_label_gr|Επιστροφή στην Προηγούμενη Σελίδα
+previous_page_button_label_eng|Return to Previous Page
+previous_button_label_gr|Επιστροφή
+previous_button_label_eng|Back
+student_control_panel_title_gr|Πίνακας Ελέγχου Μαθητή
+student_control_panel_title_eng|Student's Control Panel
+professor_control_panel_title_gr|Πίνακας Ελέγχου Καθηγητή
+professor_control_panel_title_eng|Professor's Control Panel
+admin_control_panel_title_gr|Πίνακας Ελέγχου Διαχειριστή
+admin_control_panel_title_eng|Admin's Control Panel
+favorite_courses_label_gr|Αγαπημένα Μαθήματα
+favorite_courses_label_eng|Favorite Courses
+favorite_learning_objectives_label_gr|Αγαπημένοι Μαθησιακοί Στόχοι
+favorite_learning_objectives_label_eng|Favorite Learning Objectives
+title_label_gr|Τίτλος
+title_label_eng|Title
+auto_logout_message_gr|Η σύνοδος σας έχει λήξει, μεταφερθήκατε αυτόματα στην αρχική σελίδα.
+auto_logout_message_eng|Your session has expired, you automatically moved to the home page.
+message_favorites_courses_not_found_gr|Δεν βρέθηκαν αγαπημένα μαθήματα.
+message_favorites_courses_not_found_eng|There are no favorite courses.
+message_favorites_objectives_not_found_gr|Δεν βρέθηκαν αγαπημένοι μαθησιακοί στόχοι.
+message_favorites_objectives_not_found_eng|There are no favorite learning objectives.
+add_new_favorite_course_label_gr|Προσθήκη νέου αγαπημένου μαθήματος
+add_new_favorite_course_label_eng|Add new favorite course
+add_new_favorite_objective_label_gr|Προσθήκη νέου αγαπημένου μαθησιακού στόχου
+add_new_favorite_objective_label_eng|Add new favorite learning objective
+error_message_add_favorite_course_fail_gr|Η προσθήκη νέου αγαπημένου μαθήματος απέτυχε.
+error_message_add_favorite_course_fail_eng|Failed to add new favorite course.
+error_message_add_favorite_objective_fail_gr|Η προσθήκη νέου αγαπημένου μαθησιακού στόχου απέτυχε.
+error_message_add_favorite_objective_fail_eng|Failed to add new favorite learning objective.
+error_message_favorite_remove_course_fail_gr|Η αφαίρεση αγαπημένου μαθήματος απέτυχε.
+error_message_favorite_remove_course_fail_eng|Failed to remove favorite course.
+error_message_favorite_remove_objective_fail_gr|Η αφαίρεση αγαπημένου μαθησιακού στόχου απέτυχε.
+error_message_favorite_remove_objective_fail_eng|Failed to remove favorite learning objective.
+create_course_form_title_gr|Δημιουργία Νέου Μαθήματος
+create_course_form_title_eng|Create New Course
+create_form_greek_title_label_gr|Τίτλος (Ελληνικά)
+create_form_greek_title_label_eng|Course's Title (Greek)
+create_form_english_title_label_gr|Τίτλος (Αγγλικά)
+create_form_english_title_label_eng|Course's Title (English)
+submit_button_label_gr|Καταχώρηση
+submit_button_label_eng|Submit
+error_message_create_course_fail_gr|Η δημιουργία νέου μαθήματος απέτυχε.
+error_message_create_course_fail_eng|Failed to create new course.
+message_create_course_success_gr|Η δημιουργία νέου μαθήματος πραγματοποιήθηκε.
+message_create_coursesuccess_eng|Successfully created new course.
+create_objective_form_title_gr|Δημιουργία Νέου Μαθησιακού Στόχου
+create_objective_form_title_eng|Create New Learning Objective
+create_objective_form_code_label_gr|Συνθηματικό Μαθησιακού Στόχου
+create_objective_form_code_label_eng|Learning Objective's Code
+error_message_create_objective_fail_gr|Η δημιουργία νέου μαθησιακού στόχου απέτυχε.
+error_message_create_objective_fail_eng|Failed to create new learning objective.
+message_create_objective_success_gr|Η δημιουργία νέου μαθησιακού στόχου ολοκληρώθηκε επιτυχώς.
+message_create_objective_success_eng|Successfully created new learning objective.
+professor_courses_title_gr|Μαθήματα Καθηγητή
+professor_courses_title_eng|Professors's Courses
+message_professor_courses_not_found_gr|Δεν βρέθηκαν μαθήματα καθηγητή.
+message_professor_courses_not_found_eng|There are no professor's courses.
+validate_invalidate_label_gr|Ενεργοποίηση / Απενεργοποίηση
+validate_invalidate_label_eng|Validate / Invalidate
+error_message_failed_to_login_gr|Αποτυχία σύνδεσης καθηγητή
+error_message_failed_to_login_eng|Failed to logion as professor
+error_message_course_title_gr|Ο τίτλος του μαθήματος πρέπει να ξεκινάει με κεφάλαιο γράμμα.
+error_message_course_title_eng|Course's title must start with uppercase character.

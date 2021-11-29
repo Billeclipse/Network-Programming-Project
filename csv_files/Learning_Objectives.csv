@@ -1,0 +1,72 @@
+CS.ICS.1,Ικανότητα αναγνώρισης και περιγραφής της ορολογίας της Πληροφορικής,Ability to identify and describe the terminology of Information Technology,1,1
+CS.ICS.2,Ικανότητα να διαχωρίζει διαφορετικά υποδείγματα προγραμματισμού για την εκμάθηση νέων γλωσσών αυτού,Ability to separate different programming templates for learning new languages,1,1
+CS.M.1,Η έννοια της προσέγγισης με επαναληπτικές μεθόδους,The concept of rapprochement approach,1,2
+CS.M.2,Υπολογισμός παραγώγου και ολοκληρώματος σειράς. Διαφορικές εξισώσεις με επαναληπτική μέθοδο,Calculation of derivative and integer sequence. Differential equation by iterative method,2,2
+CS.CP.1,Κατανοεί το συντακτικό και να έχει εξοικείωση με το προγραμματιστικό περιβάλλον της C,Understand the syntax and be familiar with C's programming environment,1,4
+CS.CP.2,Ικανότητα να αναλύει υπάρχοντα δομημένα προγράμματα υπολογιστών σε γλώσσα C και να καθορίζει τη λειτουργία τους,Ability to analyze existing structured computer programs in C language and to define their function,2,4
+CS.A.1,Να εφαρμόζει τεχνικές σχεδίασης αλγορίθμων,Apply algorithm design techniques,2,5
+CS.A.2,Περιγράφει τους αλγορίθμους με τη χρήση ψευδογλώσσας,Describes algorithms using pseudo-gloss,2,5
+CS.OOP.1,Εξηγούν τις βασικές έννοιες του αντικειμενοστραφούς προγραμματισμού και τον τρόπο υλοποίησής τους στη γλώσσα C++,They explain the basic concepts of object-oriented programming and how they are implemented in C ++,1,6
+CS.OOP.2,Υλοποιούν προγραμματιστικές λύσεις που ενσωματώνουν χαρακτηριστικά κληρονομικότητας και πολυμορφισμού,Implement programming solutions that incorporate characteristics of inheritance and polymorphism,2,6
+CS.DM.1,Μοντελοποίηση και την επίλυση συγκεκριμένων προβλημάτων της Επιστήμης των Υπολογιστών,Modeling and solving specific problems of Computer Science,3,8
+CS.DS.1,Γνωρίζει τις θεωρητικές αρχές που διέπουν τις Δομές Δεδομένων και την αναγκαιότητά της αποτελεσματικής χρήσης τους σε μία ολοκληρωμένη εφαρμογή,Know the theoretical principles underlying data structures and the necessity of their effective use in an integrated application,1,9
+CS.DS.2,Έχει το υπόβαθρο ώστε να αξιολογεί και να αξιοποιεί τα σχετικά προγραμματιστικά εργαλεία για οργάνωση και διαχείριση δεδομένων,It has the background to evaluate and exploit the relevant programming tools for organizing and managing data,3,9
+CS.DD.1,Να κατανοεί τα αριθμητικά συστήματα που χρησιμοποιούνται στους Η/Υ,Understand the numerical systems used in PCs,1,10
+CS.DD.2,Να προσομοιώνει ψηφιακά κυκλώματα και να επαληθεύει την λειτουργία τους,Simulate digital circuits and verify their operation,2,10
+CS.AC.1,Έχει κατανοήσει το ρόλο της ανάλυσης και της σχεδίασης πληροφοριακών συστημάτων διοίκησης,Understand the role of analyzing and designing information management systems,1,11
+CS.AC.2,Μπορεί να σχεδιάσει την Βάση Δεδομένων και την Επαφή Χρήσης ενός πληροφοριακού συστήματος,Design the Database and Contact Us for an information system,2,11
+CS.DI.1,Θα είναι σε θέση να αναλύσει επιχειρησιακούς κανόνες για να σχεδιάσει βάσεις δεδομένων,Will be able to analyze business rules to design databases,3,12
+CS.DI.2,Θα είναι σε θέση να εφαρμόσει τις βασικές τεχνικές χρήσης γλώσσας SQL για την υλοποίηση συστημάτων βάσεων δεδομένων,Will be able to apply the basic SQL language techniques for implementing database systems,2,12
+CS.ISM.1,Έχει κατανοήσει το ρόλο της ανάλυσης και της σχεδίασης πληροφοριακών συστημάτων διοίκησης,Understands the role of analyzing and designing information management systems,1,13
+CS.OSI.1,Να περιγράψει τις βασικές λειτουργίες ενός λειτουργικού συστήματος,Describe the basic functions of an operating system,3,14
+CS.CA.1,Έχει κατανοήσει τη δομή και λειτουργία ενός σύγχρονου υπολογιστικού συστήματος,Understands the structure and function of a modern computing system,1,15
+CS.CA.2,Εκτιμήσει την απόδοση ενός υπολογιστικού συστήματος,Evaluate the performance of a computing system,3,15
+CS.CN.1,Κατανοεί τη θεωρητική και πρακτική λειτουργία των επικοινωνιών και τοπικών δικτύων,Understands the theoretical and practical operation of communications and local networks,1,16
+CS.CN.2,Έχει γνώση των μέσων και των τεχνικών που απαιτούνται για την εγκατάσταση και λειτουργία σύγχρονων τοπικών δικτύων,Aware of the means and techniques required for the installation and operation of modern local networks,1,16
+CS.DDS.1,Σχεδιάζουν σύγχρονα ακολουθιακά κυκλώματα,Design modern sequential circuits,2,19
+CS.DDS.2,Περιγράφουν τη λειτουργία απλών ηλεκτρονικών κυκλωμάτων,Describe the operation of simple electronic circuits,3,19
+CS.ADM.1,Κατανοεί και να αξιοποιεί την έννοια της Αφαίρεσης,Understands and exploits the concept of Abstract data types,1,20
+CS.ADM.2,Να μπορεί να συγκρίνει τα διάφορα περιβάλλοντα γρήγορης ανάπτυξης εφαρμογών,Be able to compare rapid application development environments,3,20
+CS.DII.1,θα είναι σε θέση να αναλύσει επιχειρησιακούς κανόνες για να σχεδιάσει σύνθετες βάσεις δεδομένων,Will be able to analyze business rules to design complex databases,3,21
+CS.ST.1,Αφομοίωση των βασικών εννοιών ανάπτυξης λογισμικού μεσαίας και μεγάλης κλίμακας,Accomplishing basic concepts of medium and large scale software development,1,22
+CS.ST.2,Γνώση ποιοτικών χαρακτηριστικών και εμβάθυνση στις αρχές καλής σχεδίασης λογισμικού,Knowledge of qualitative features and deepening of principles of good software design,1,22
+CS.ADI.1,Έχει γνώση των εργαλείων και των τεχνικών της Ανάλυσης & Σχεδιασμού συστημάτων,Knowledge of the tools and techniques of Analysis & Planning systems,1,23
+CS.ADI.2,Να Χρησιμοποιεί τις μεθοδολογίες ανάλυσης και σχεδιασμού συστημάτων,Use the methodologies of system analysis and design,2,23
+CS.C.1,Περιγράψουν το ρόλο του πίνακα συμβόλων και να είναι σε θέση να επιλέξουν κατάλληλη δομή και οργάνωση ώστε να τον δημιουργήσουν,Describe the role of the symbol table and be able to choose the appropriate structure and organization to create it,3,24
+CS.IPS.1,Θα μπορεί να εφαρμόσει τις τεχνικές σχεδιασμού αλγορίθμων σε περιβάλλον κοινής μνήμης και θα μπορεί να σχεδιάζει αλγορίθμους κοινής μνήμης,Will be able to implement the algorithm design techniques in a shared memory environment and can design common memory algorithms,2,25
+CS.IPS.2,Θα έχει κατανοήσει τις βασικές τεχνικές σχεδιασμού αλγορίθμων σε περιβάλλον κατανεμημένης μνήμης,Will understand the basic algorithm design techniques in a distributed memory environment,1,25
+CS.NP.1,Κατανόηση των τεχνολογιών πρόσβασης σε Βάσης δεδομένων με χρήση JAVA και σε περιβάλλον διαδικτύου,Understanding access technologies in a JAVA database and in an Internet environment,1,26
+CS.NP.2,Χρήση των threads για την υλοποίηση δικτυακών εφαρμογών,Using threads to implement web applications,2,26
+CS.SQR.1,Να οργανώνουν τη διαχείριση των σχετικών ενεργειών σχεδίασης και ελέγχου επίτευξης της ποιότητας λογισμικού,Organize the management of relevant design and control actions to achieve software quality,3,27
+CS.HCI.1,Θα έχουν κατανοήσει τα προβλήματα που προκύπτουν κατά την αλληλεπίδραση χρήστη και Η/Υ,Understanding the problems that arise during user and PC interaction,1,28
+CS.HCI.2,Θα έχουν αποκτήσει δεξιότητες σχεδίασης και υλοποίησης διεπαφών χρήστη,They will have acquired the skills to design and implement user interfaces,2,28
+CS.CS.1,Να είναι γνώστης των διαφόρων τύπων υπολογιστικών συστημάτων που χρησιμοποιούνται στην πράξη και την εφαρμογή τους,Be aware of the different types of computing systems used in practice and their implementation,1,29
+CS.SS.1,Είναι εξοικειωμένος με το περιβάλλον και την εργαλειοθήκη επεξεργασίας σήματος του MATLAB,He is familiar with the environment and the MATLAB signal processing toolbox,1,30
+CS.SIT.1,Θα αναγνωρίζει τις ευπάθειες των πληροφοριακών και επικοινωνιακών συστημάτων,Recognizes the vulnerabilities of information and communication systems,1,31
+CS.SIT.2,Θα είναι σε θέση να εφαρμόσει βασικές αρχές σχεδιασμού πολιτικών ασφαλείας,Will be able to implement basic principles of security policy design,2,31
+CS.AI.1,Περιγράφουν προβλήματα και να αναπαριστούν τη σχετική γνώση με τυπικούς τρόπους,Describe problems and represent the relevant knowledge in typical ways,3,32
+CS.AI.2,Σχεδιάζουν και αναπτύσσουν έμπειρα συστήματα βασισμένα σε κανόνες,Design and develop expert-based systems,2,32
+CS.IR.1,Θα έχουν κατανοήσει τα ζητήματα που προκύπτουν κατά την ευρετηρίαση και αναζήτηση στον παγκόσμιο ιστό,Will understand the issues raised by indexing and searching the web,1,34
+CS.IR.2,Θα έχουν την ικανότητα επίλυσης προβλημάτων που προκύπτουν κατά την ανάπτυξη και λειτουργία συστημάτων ανάκτησης πληροφοριών,Will be able to solve problems that arise when developing and operating information retrieval systems,2,34
+CS.IP.1,Κατανοεί τη χρησιμότητα της μαθηματικής μορφολογίας σε πλήθος τεχνικών επεξεργασίας δυαδικών εικόνων,Understands the usefulness of mathematical morphology in a number of binary image processing techniques,1,35
+CS.IP.2,Αναλύει και να υλοποιεί αλγορίθμους επεξεργασίας εικόνας,Analyzes and implements image processing algorithms,3,35
+CS.DSI.1,Θα μπορεί να περιγράψει τις βασικές λειτουργίες ενός κατανεμημένου συστήματος,It will be able to describe the basic functions of a distributed system,3,36
+CS.NN.1,Εξηγεί τη λειτουργία διαφόρων μοντέλων νευρωνικών δικτύων,Explains the operation of various neural network models,3,37
+CS.ACA.1,Έχει αποκτήσει γνώσεις που σχετίζονται με το υλικό και τους δείκτες απόδοσης ενός υπολογιστή,Acquired knowledge related to the hardware and performance indicators of a computer,1,38
+CS.ACA.2,Αξιολογήσει υλικό και λογισμικό υπολογιστών,Evaluate computer hardware and software,3,38
+CS.DC.1,Χρησιμοποιεί βασικά εργαλεία προσομοίωσης της λειτουργίας συστημάτων ψηφιακών επικοινωνιών,Employs basic tools for simulating the operation of digital communication systems,2,39
+CS.ES.1,Αναλύουν την απόδοση του ενσωματωμένου λογισμικού,They analyze the performance of embedded software,3,40
+CS.ES.2,Αξιοποιούν τις τεχνολογίες Arduino και Rasberry για την ανάπτυξη ολοκληρωμένων ενσωματωμένων συστημάτων,Use Arduino and Raspberry technologies to develop integrated embedded systems,2,40
+CS.DMI.1,Θα είναι ικανοί να εφαρμόζουν τις κατάλληλες ανά περίπτωση τεχνικές εξόρυξης δεδομένων,Will be able to apply appropriate data mining techniques per case,2,42
+CS.IS.1,Η κατανόηση της δομής και των βασικών χαρακτηριστικών των διαφορετικών κατηγοριών ευφυών συστημάτων,Understanding the structure and key features of different categories of intelligent systems,1,43
+CS.CG.1,Έχει τη δυνατότητα να σχεδιάζει και να υλοποιεί επαγγελματικές εφαρμογές γραφικών αξιοποιώντας σύγχρονες τεχνολογικές πλατφόρμες,The ability to design and implement professional graphics applications utilizing modern technology platforms,2,44
+CS.ETT.1,Περιγράφουν τις βασικές θεωρίες μάθησης και να επεξηγούν τα σχετικά διδακτικά μοντέλα,Describe the basic learning theories and explain the relevant teaching models,3,45
+CS.EC.1,Αναπτύξει τα βασικά επιχειρηματικά μοντέλα και να εμβαθύνει στις λειτουργίες αυτών,Develop key business models and deepen their operations,3,47
+CS.EC.2,Να μελετήσει και να εφαρμόσει (ενσωματώσει) τη χρήση των ψηφιακών πιστοποιητικών,Study and implement (integrate) the use of digital certificates,1,47
+CS.OR.1,Έχει κατανοήσει τις βασικές τεχνικές της επιχειρησιακής έρευνας και της θεωρίας αποφάσεων,Understanding the basic techniques of business research and decision theory,1,49
+CS.NAA.1,Η κατανόηση βασικών εννοιών των επαναληπτικών μεθόδων και η χρησιμοποίησή τους σε εφαρμογές της Αριθμητικής Ανάλυσης,Understanding basic concepts of iterative methods and their use in Numerical Analysis,1,50
+CS.NAA.2,Η ανάπτυξη της μαθηματικής ωριμότητας του σπουδαστή,The development of mathematical maturity of the student,3,50
+CS.DIC.1,Σχεδιάζουν κυκλώματα χρησιμοποιώντας τεχνικές μείωσης της κατανάλωσης,Design circuits using consumption reduction techniques,2,51
+CS.DIC.2,Ελέγχουν την ορθή λειτουργία κυκλωμάτων VLSI,Check the correct operation of VLSI circuits,3,51
+CS.PS.1,Να σχεδιάσει αποδοτικούς παράλληλους αλγόριθμους για περιβάλλοντα κατανεμημένης μνήμης,Design efficient parallel algorithms for distributed memory environments,2,52
+CS.MCN.1,Αντιλαμβάνεται την εξέλιξη των γενεών των δικτύων κινητών και ασύρματων επικοινωνιών,Understands the evolution of generations of mobile and wireless communications networks,1,54

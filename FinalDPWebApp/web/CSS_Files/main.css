@@ -1,0 +1,328 @@
+@media (max-width: 1200px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+		top: 0;
+		border-width: 0 0 1px;
+	}
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+		margin-top: 7.5px;
+	}
+	.navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+  		display:block !important;
+	}
+}
+
+body.main{
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #000;
+    background-color: #596D7B;
+    background-image: url("../Images/background.png");
+	background-attachment:fixed;
+}
+
+div.my-navbar{
+    background-image: url("../Images/background.png");
+    background-attachment:fixed;
+}
+
+div.title-container{
+    background-image: url("../Images/background_2.png");
+    background-color: #FFF;
+    color: #333;
+    font-size: 26px;
+    border-radius: 5px 5px 0 0;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+    transition: all 120ms linear;    
+    padding: 10px 0 10px 20px;
+}
+
+div.main-container{
+    background-image: url("../Images/background_2.png");
+    background-color: #FFF;
+    color: #333;
+    box-shadow: 0 20px 20px rgba(0,0,0,0.5);
+    transition: all 120ms linear;    
+    padding: 0 0 15px 7px;
+}
+
+div.login-container{
+    background-image: url("../Images/img_background.jpg");
+    background-color: #DDD;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.5);
+    transition: all 120ms linear;    
+    padding: 40px 20px 40px 0;
+}
+
+div.bottom-container{
+    background-image: url("../Images/background_2.png");
+    background-color: #FFF;
+    color: #333;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0px 20px 20px rgba(0,0,0,0.5);
+    transition: all 120ms linear;    
+    padding: 10px 0px 11px 40px;
+}
+
+div.my-copyrights{
+    position: fixed;
+    bottom: 0 ;
+    text-align: center;
+    color: #FFF;
+    background-image: url("../Images/background.png");
+    background-attachment:fixed;
+    background-color: rgba(10,20,20,0.8);
+    width: 100%;
+    margin-left: -15px;    
+}
+
+div.login-form{
+    color: #333;
+    background-color: #EEE;
+    background-image: url("../Images/background.png");
+    background-attachment:fixed;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+    transition: all 120ms linear;
+    position: relative;
+}
+
+div.message{
+    background-color:#VVV;
+    font-size: 16px;
+    padding: 5px;
+    margin: 0;
+}
+
+div.my-tab{
+    background-image: url("../Images/background_2.png");
+    background-attachment:fixed;
+    margin: 0 20px 0 0;
+    border: 0 !important; 
+}
+
+ul.my-tab-bar{
+    background-image: url("../Images/background_2.png");
+    background-attachment:fixed;
+    background-color: #fff;
+    border: 0 !important;
+}
+
+.tab-th{
+    background-image: url("../Images/background_2.png");
+    background-attachment:fixed;
+    background-color: #ccc;
+    color:#5a5a5a;
+    border-bottom: 1px #cfcfcf solid;
+    border-right: 1px #d7d7d7 solid;
+    padding: 3px 15px;
+}
+
+.tab-tr{    
+    background-image: url("../Images/background_2.png");
+    background-attachment:fixed;
+    background-color: #fafafa;
+    border-bottom: 1px #cfcfcf solid;  
+    border-right: 1px #d7d7d7 solid;
+}
+
+.tab-td{    
+    border-right: 1px #d7d7d7 solid;
+    padding: 7px 15px;
+}
+
+/* jquery.css changes start */
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor{
+    padding: 6px 8px 5px 8px;
+}
+
+.ui-tabs .ui-tabs-panel{
+    padding: 0 3px;
+}
+
+.ui-widget-content a{
+    color: #337ab7;
+}
+/* jquery.css changes end */
+
+/* Search courses container start */
+div.courses-search-container{
+    margin: 20px 0 0 20px;    
+}
+
+div.courses-search-title{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+hr.courses-search-hr{
+    border-top: 2px solid #777;
+    margin: 2px 0px 8px 15px;
+}
+
+div.learning-objectives-box{
+    margin: 2px 0px 8px 5px;
+}
+
+input.learning-objective-search-button{
+    float: right;
+    margin: 0 50px 0 0;
+    padding: 4px 0;
+}
+
+div.all-courses-box{
+    margin: 4px 0px 8px 0px;
+}
+
+hr.learning-objective-search-hr{
+    border-top: 0;
+    margin: 10px 0 0 0;
+}
+/* Search courses container end */
+
+table.tab-table{
+    border: 1px #cfcfcf solid;   
+}
+
+table.learning-objective-table{
+    margin-left: 50px;
+}
+
+hr.my-hr{
+    margin: 3px 0 5px 0;
+}
+
+hr.main-hr{
+    margin: 15px 0 5px 10px;
+}
+
+td{
+    padding: 0 10px 0 10px;
+}
+
+p.title{
+    font-size: 22px;
+    color: rgb(100,100,100);
+    padding: 10px 10px 0px 10px;
+}
+
+.dropdown-menu{
+    background-image: url("../Images/background.png");
+    background-attachment:fixed;
+    border: 1px #ddd solid;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px rgba(0,0,0,0.5);
+    transition: all 120ms linear;
+}
+
+li a {
+  font-size: 20px;
+}
+
+label{
+    font-size: 24px;
+    font-weight: normal;
+}
+
+input.btn-login{
+    width: 100%;
+    border-radius: 16px;
+}
+
+div.btn-register {
+  color: #fff;
+  background-color: #88939E;
+  border-color: #fff;
+}
+
+img.flag_icon{
+    height: 64px;
+    width: 64px;
+}
+
+ul.my-dropdown-menu{
+    min-width: 0;
+}
+
+ul.my-dropdown-menu > li > a{
+    padding:0;
+}
+
+form.add-form{
+    margin: 0 0 20px 25px;
+}
+
+/* create course form start */
+#create_course_form{
+    padding: 20px;
+}
+
+.create_course_label{
+    font-size: 20px !important;
+}
+/* create course form end */
+
+#professor_courses{
+    padding: 10px 0 10px 20px;
+}
+
+/* create learning objective form start */
+#create_objective_form{
+    padding: 20px;
+}
+/* create learning objective form end */
+
+div.btn-register:hover,
+div.btn-register:focus,
+div.btn-register:active,
+div.btn-register.active {
+  color: #fff;
+  background-color: #586A7D;
+  border-color: #88939E;
+}
+
+span.closeX{
+    color: #d9534f !important;
+}
+
+span.closeX:hover,
+span.closeX:focus,
+span.closeX:active,
+span.closeX:active{
+  color: #c12e2a !important;
+}
+
+span.check{
+    color: #00e600 !important;
+}
+
+span.check:hover,
+span.check:focus,
+span.check:active,
+span.check:active{
+  color: #00b300 !important;
+}
