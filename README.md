@@ -4,6 +4,15 @@
 
 This project was made as a class assignment for the course "Network-Programming-Project" at the University of West Attica former known as TEI of Athens. The project is based on the current eclass of the university and is just focused on the courses and their learning objectives. Is has professor,student and admin interface full working with mysql database. This project supports both greek and english languages.
 
+<h1 align="center"> :information_source: Technologies Used :information_source: </h1>
+<ul>
+    <li>Netbeans 8.2</li>    
+    <li>Glashfish server 4.1</li>
+    <li>Jackson 2.8.5</li>    
+    <li>Mysql Database 8.0</li>
+    <li>Mysql Java Connector 8.0.27</li>  
+</ul>
+
 <h1 align="center"> :camera: Screenshots :camera: </h1>
 
 <h2 align="center"> Index Page </h2>
