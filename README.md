@@ -18,25 +18,25 @@ This project was made as a class assignment for the course "Network Programming"
 <h1 align="center"> :camera: Screenshots :camera: </h1>
 
 <h2 align="center"> Index Page </h2>
-<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture.PNG?raw=true" alt="Travel-Agency-Database-Project-GR-Img" width="1050px"/></p>
+<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture.PNG?raw=true" alt="Network-Programming-Project-Img" width="1050px"/></p>
 
 <h2 align="center"> Undergraduate Courses' Page </h2>
-<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture2.PNG?raw=true" alt="Travel-Agency-Database-Project-GR-Img" width="1050px"/></p>
+<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture2.PNG?raw=true" alt="Network-Programming-Project-Img" width="1050px"/></p>
 
 <h2 align="center"> Learning Objective's Page </h2>
-<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture3.PNG?raw=true" alt="Travel-Agency-Database-Project-GR-Img" width="1050px"/></p>
+<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture3.PNG?raw=true" alt="Network-Programming-Project-Img" width="1050px"/></p>
 
 <h2 align="center"> Student Interface Main Page </h2>
-<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture4.PNG?raw=true" alt="Travel-Agency-Database-Project-GR-Img" width="1050px"/></p>
+<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture4.PNG?raw=true" alt="Network-Programming-Project-Img" width="1050px"/></p>
 
 <h2 align="center"> Professor Interface Main Page </h2>
-<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture5.PNG?raw=true" alt="Travel-Agency-Database-Project-GR-Img" width="1050px"/></p>
+<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture5.PNG?raw=true" alt="Network-Programming-Project-Img" width="1050px"/></p>
 
 <h2 align="center"> Professor Interface Adding New Course </h2>
-<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture6.PNG?raw=true" alt="Travel-Agency-Database-Project-GR-Img" width="1050px"/></p>
+<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture6.PNG?raw=true" alt="Network-Programming-Project-Img" width="1050px"/></p>
 
 <h2 align="center"> Admin Control Panel Page</h2>
-<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture7.PNG?raw=true" alt="Travel-Agency-Database-Project-GR-Img" width="1050px"/></p>
+<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/Capture7.PNG?raw=true" alt="Network-Programming-Project-Img" width="1050px"/></p>
 
 <h1 align="center"> Project's Database Scheme </h1>
-<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/DPFINAL_DB.PNG?raw=true" alt="Travel-Agency-Database-Project-GR-Img" width="1050px"/></p>
+<p align="center"><img src="https://github.com/Billeclipse/Network-Programming-Project/blob/main/imgs/DPFINAL_DB.PNG?raw=true" alt="Network-Programming-Project-Img" width="1050px"/></p>
